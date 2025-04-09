@@ -1,5 +1,5 @@
 ASSIGNMENT 1:
-Module 2: Basic Python Concepts
+  Module 2: Basic Python Concepts
  
 Task 1: Perform Basic Mathematical Operations
 Problem Statement: Write a Python program that does the following:
@@ -18,7 +18,7 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 
 ASSIGNMENT 2:
-Module 3: Control Structures in Python
+  Module 3: Control Structures in Python
  
 Task 1: Check if a Number is Even or Odd
 Problem Statement:  Write a Python program that:
