@@ -31,4 +31,4 @@ last_name = input("Enter your last name: ")
 
 full_name = first_name + " " + last_name
 
-print(f"You are {full_name} the faous warlock and exorcist")
+print(f" YOU ARE {full_name} THE FAMOUS WARLOCK AND EXORCIST")
