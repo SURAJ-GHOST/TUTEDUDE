@@ -25,9 +25,9 @@ print("\n")
 #Problem Statement: Write a Python program that:
 
 
-first_name = input("Enter your first name: ")
+first_name = input("ENTER THE FIRST NAME: ")
 
-last_name = input("Enter your last name: ")
+last_name = input("ENTER THE LAST NAME : ")
 
 full_name = first_name + " " + last_name
 
