@@ -7,7 +7,8 @@ except FileNotFoundError:
     print("Error: The file 'sample.txt' does not exist.\n")
 
 
-    # Task 2: Write and Append Data to a File
+
+# Task 2: Write and Append Data to a File
 
 # Step 1: Take user input and write to the file
 user_input = input("Enter text to the file : ")
